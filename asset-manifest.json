@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.556ef807.css",
-    "main.js": "/static/js/main.490f9072.js",
+    "main.css": "/static/css/main.0aabd487.css",
+    "main.js": "/static/js/main.bf7811c2.js",
     "static/media/Stay Dreaming Regular.ttf": "/static/media/Stay Dreaming Regular.5f41e4323ae718ea1439.ttf",
     "static/media/vclp.png": "/static/media/vclp.8327fb3748ae8b5d5774.png",
     "static/media/discover-ro.png": "/static/media/discover-ro.8852ae61067b161c45ef.png",
@@ -27,17 +27,22 @@
     "static/media/cc.png": "/static/media/cc.ee9efd77d484d1ff7a7e.png",
     "static/media/intimelogo.png": "/static/media/intimelogo.6266e2674a5ee82eb291.png",
     "static/media/gc.png": "/static/media/gc.51f9a8caac0cd4e27c16.png",
+    "static/media/typescript.png": "/static/media/typescript.73e3a78b971fb4a4f346.png",
+    "static/media/wordpress.png": "/static/media/wordpress.9fa09f4e51c34ddc63d1.png",
     "static/media/ntoologo.png": "/static/media/ntoologo.158237755bef73c8564c.png",
+    "static/media/shopify.png": "/static/media/shopify.94a94fb1a58a08f88174.png",
+    "static/media/php.png": "/static/media/php.210fbd2df0a43575347e.png",
+    "static/media/python.png": "/static/media/python.ca8bf8fe6370b0d14569.png",
     "static/media/globe2.svg": "/static/media/globe2.40bed93b8c9e387b3ec4713c7a7fa231.svg",
     "static/media/dribbble.svg": "/static/media/dribbble.cd89a54ee22d0a8f653be9c123e07510.svg",
     "index.html": "/index.html",
     "static/media/youtube.svg": "/static/media/youtube.1d26071402f4b2c4c4db63cd1137f514.svg",
     "static/media/github.svg": "/static/media/github.225330f7969dd84facf306c68f4fc3f4.svg",
-    "main.556ef807.css.map": "/static/css/main.556ef807.css.map",
-    "main.490f9072.js.map": "/static/js/main.490f9072.js.map"
+    "main.0aabd487.css.map": "/static/css/main.0aabd487.css.map",
+    "main.bf7811c2.js.map": "/static/js/main.bf7811c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.556ef807.css",
-    "static/js/main.490f9072.js"
+    "static/css/main.0aabd487.css",
+    "static/js/main.bf7811c2.js"
   ]
 }
